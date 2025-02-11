@@ -7,7 +7,6 @@ This project is a mini shell implementation for the Operating Systems course (CC
 ### **Phase 1: Understanding the Provided Source Code**
 - The shell uses Lex and Yacc for scanning and parsing.
 - Provided source files:
-  - `examples/` - Contains helpful code snippets.
   - `Commands.cc` & `command.h` - Main C++ files for command handling.
   - `Makefile` - Compilation instructions (no changes required).
   - `shell.l` & `shell.y` - Lex and Yacc configuration files.
