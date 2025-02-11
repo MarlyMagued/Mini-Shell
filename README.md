@@ -50,7 +50,6 @@ exit
 
 ## Project Architecture
 ```
-├── examples/
 ├── command.h
 ├── Commands.cc
 ├── Makefile
